@@ -3,7 +3,7 @@
 **Testing Type:** Black Box Testing  
 **Platform:** Portfolio Visualizer Financial Analysis Platform  
 **Testing Scope:** 15 Major Tools/Forms Across 6 Categories  
-**Date:** December 2023  
+**Date:** November 2025 
 
 ---
 
@@ -274,4 +274,4 @@ Inside `/cypress/results/` you will find:
 **Uzair Majeed**  
 SQE/SQA – Financial Systems Testing  
 Portfolio Visualizer – Black Box + Automated Testing  
-December 2023  
+Novemeber 2025
